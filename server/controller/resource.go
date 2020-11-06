@@ -15,10 +15,10 @@
 package controller
 
 import (
-	"github.com/fatedier/frp/models/nathole"
-	"github.com/fatedier/frp/server/group"
-	"github.com/fatedier/frp/server/ports"
-	"github.com/fatedier/frp/utils/vhost"
+	"github.com/HaidyCao/frp_0300/models/nathole"
+	"github.com/HaidyCao/frp_0300/server/group"
+	"github.com/HaidyCao/frp_0300/server/ports"
+	"github.com/HaidyCao/frp_0300/utils/vhost"
 )
 
 // All resource managers and controllers

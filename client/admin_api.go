@@ -22,9 +22,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/fatedier/frp/client/proxy"
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/utils/log"
+	"github.com/HaidyCao/frp_0300/client/proxy"
+	"github.com/HaidyCao/frp_0300/models/config"
+	"github.com/HaidyCao/frp_0300/utils/log"
 )
 
 type GeneralResponse struct {

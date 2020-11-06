@@ -20,10 +20,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/fatedier/frp/models/config"
-	"github.com/fatedier/frp/models/msg"
-	"github.com/fatedier/frp/models/proto/udp"
-	"github.com/fatedier/frp/server/stats"
+	"github.com/HaidyCao/frp_0300/models/config"
+	"github.com/HaidyCao/frp_0300/models/msg"
+	"github.com/HaidyCao/frp_0300/models/proto/udp"
+	"github.com/HaidyCao/frp_0300/server/stats"
 
 	"github.com/fatedier/golib/errors"
 )
